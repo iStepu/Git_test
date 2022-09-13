@@ -1,4 +1,3 @@
-package joo;
 
 public class testi {
 	public static void main(String[] args) {
